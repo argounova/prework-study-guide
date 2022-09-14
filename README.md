@@ -1,15 +1,13 @@
 # Prework Study Guide
 
 ## Description
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This prework study guide serves as a sandbox style example housing both notes and practice code to reference throughout the Coding Bootcamp. It exists so that a student may experience a "hands-on" learning format from the very beginning of the course. This project helps to encourage the student and solves the problem of how to teach highly complex material to novice learners. Through completion of this study guide, the student learns basic concepts from the most ubiquitous coding languages in use today, including HTML, CSS and JavaScript. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+## Installation
+N/A
 
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
+To fully utilize the Prework Study Guide, right click anywhere on the webpage and select "Inspect". Click on "Console" to view topis learned throughout the Prework project. For a suggestion on which topic to study first, refresh the webpage.
 
 ## Credits
 N/A
